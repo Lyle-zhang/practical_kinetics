@@ -27,10 +27,10 @@ __Download Exercise 0:__ &nbsp; [PDF](http://ekwan.github.io/practical_kinetics/
 __Download Exercise 1:__ &nbsp; [PDF](http://ekwan.github.io/practical_kinetics/exercise%201/Exercise%201.pdf) &nbsp; [PowerPoint](http://ekwan.github.io/practical_kinetics/exercise%201/Exercise%201.pptx) &nbsp; [IPython Notebook](http://ekwan.github.io/practical_kinetics/exercise%201/Exercise%201.ipynb)
 
 ### Practice 1: Kinetic Resolution
-<img src="http://ekwan.github.io/practical_kinetics/exercise%201/practice%201.png" height=150px>
+<img src="http://ekwan.github.io/practical_kinetics/practice%201/practice%201.png" height=150px>
 
 - timecourse simulation of a first-order kinetic resolution
 - predict yield as a function of selectivity
 - interpolation
 
-__Download Practice 1:__ &nbsp; [PDF](http://ekwan.github.io/practical_kinetics/practice%201/practice%201.pdf) &nbsp; [PowerPoint](http://ekwan.github.io/practical_kinetics/exercise%201/practice%201.pptx) &nbsp; [IPython Notebook](http://ekwan.github.io/practical_kinetics/practice%201/Practice%201.ipynb)
+__Download Practice 1:__ &nbsp; [PDF](http://ekwan.github.io/practical_kinetics/practice%201/practice%201.pdf) &nbsp; [PowerPoint](http://ekwan.github.io/practical_kinetics/practice%201/practice%201.pptx) &nbsp; [IPython Notebook](http://ekwan.github.io/practical_kinetics/practice%201/practice%201.ipynb)
