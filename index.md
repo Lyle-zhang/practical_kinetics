@@ -36,11 +36,11 @@ __Download Exercise 1:__ &nbsp; [PDF](http://ekwan.github.io/practical_kinetics/
 __Download Practice 1:__ &nbsp; [PDF](http://ekwan.github.io/practical_kinetics/practice%201/practice%201.pdf) &nbsp; [PowerPoint](http://ekwan.github.io/practical_kinetics/practice%201/practice%201.pptx) &nbsp; [IPython Notebook](http://ekwan.github.io/practical_kinetics/practice%201/practice%201.ipynb)
 
 ### Exercise 2: Integral Rate Laws
-<img src="http://ekwan.github.io/practical_kinetics/exercise%201/Exercise%202.png" height=150px>
+<img src="http://ekwan.github.io/practical_kinetics/exercise%202/exercise%202.png" height=150px>
 
 - import data from Excel and CSV
 - fit absorbance data to zero-, first-, and second-order rate laws
 - residual and chi-square error analysis
 
-__Download Exercise 2:__ &nbsp; [PDF](http://ekwan.github.io/practical_kinetics/exercise%202/Exercise%202.pdf) &nbsp; [PowerPoint](http://ekwan.github.io/practical_kinetics/exercise%202/Exercise%202.pptx) &nbsp; [IPython Notebook](http://ekwan.github.io/practical_kinetics/exercise%202/Exercise%202.ipynb)<br/>
+__Download Exercise 2:__ &nbsp; [PDF](http://ekwan.github.io/practical_kinetics/exercise%202/exercise%202.pdf) &nbsp; [PowerPoint](http://ekwan.github.io/practical_kinetics/exercise%202/exercise%202.pptx) &nbsp; [IPython Notebook](http://ekwan.github.io/practical_kinetics/exercise%202/Exercise%202.ipynb)<br/>
 __Download Data Files:__ &nbsp; [dataset1.csv](http://ekwan.github.io/practical_kinetics/exercise%202/dataset1.csv) &nbsp; [dataset1.xlsx](http://ekwan.github.io/practical_kinetics/exercise%202/dataset1.xlsx) 
