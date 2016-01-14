@@ -42,5 +42,5 @@ __Download Practice 1:__ &nbsp; [PDF](http://ekwan.github.io/practical_kinetics/
 - fit absorbance data to zero-, first-, and second-order rate laws
 - residual and chi-square error analysis
 
-__Download Exercise 2:__ &nbsp; [PDF](http://ekwan.github.io/practical_kinetics/exercise%202/exercise%202.pdf) &nbsp; [PowerPoint](http://ekwan.github.io/practical_kinetics/exercise%202/exercise%202.pptx) &nbsp; [IPython Notebook](http://ekwan.github.io/practical_kinetics/exercise%202/Exercise%202.ipynb)<br/>
+__Download Exercise 2:__ &nbsp; [PDF](http://ekwan.github.io/practical_kinetics/exercise%202/exercise%202.pdf) &nbsp; [PowerPoint](http://ekwan.github.io/practical_kinetics/exercise%202/exercise%202.pptx) &nbsp; [IPython Notebook](http://ekwan.github.io/practical_kinetics/exercise%202/exercise%202.ipynb)<br/>
 __Download Data Files:__ &nbsp; [dataset1.csv](http://ekwan.github.io/practical_kinetics/exercise%202/dataset1.csv) &nbsp; [dataset1.xlsx](http://ekwan.github.io/practical_kinetics/exercise%202/dataset1.xlsx) 
