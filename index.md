@@ -53,7 +53,7 @@ __Download Data Files:__ &nbsp; [dataset1.csv](http://ekwan.github.io/practical_
 - extracting rate constants
 
 __Download Exercise 3:__ &nbsp; [PDF](http://ekwan.github.io/practical_kinetics/exercise%203/exercise%203.pdf) &nbsp; [PowerPoint](http://ekwan.github.io/practical_kinetics/exercise%203/exercise%203.pptx) &nbsp; [IPython Notebook](http://ekwan.github.io/practical_kinetics/exercise%203/exercise%203.ipynb)<br/>
-__Download Data File:__ &nbsp; [dataset2.csv](http://ekwan.github.io/practical_kinetics/exercise%204/dataset2.csv) &nbsp;
+__Download Data File:__ &nbsp; [dataset2.csv](http://ekwan.github.io/practical_kinetics/exercise%203/dataset2.csv) &nbsp;
 
 ### Exercise 4: Reaction Progress Analysis of a Catalytic Reaction
 <img src="http://ekwan.github.io/practical_kinetics/exercise%204/exercise%204.png" height=150px>
