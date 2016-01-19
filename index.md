@@ -15,14 +15,14 @@ Solutions are also provided.  Download the relevant `.ipynb` file and open it in
 - how to install [Python](http://www.python.org) and [IPython Notebook](http://ipython.org/notebook.html)
 - a short piece of code to test your installation
 
-__Download Exercise 0:__ &nbsp; [PDF](http://ekwan.github.io/practical_kinetics/exercise%200/Exercise%200.pdf) &nbsp; [PowerPoint](http://ekwan.github.io/practical_kinetics/exercise%200/Exercise%200.pptx) 
+__Download Exercise 0:__ &nbsp; [PDF](http://ekwan.github.io/practical_kinetics/exercise%200/Exercise%200.pdf) &nbsp; [PowerPoint](http://ekwan.github.io/practical_kinetics/exercise%200/Exercise%200.pptx) &nbsp; [IPython Notebook](http://ekwan.github.io/practical_kinetics/exercise%200/exercise%200.ipynb)
 
 ### Exercise 1: Introduction to Data Analysis in Python
 <img src="http://ekwan.github.io/practical_kinetics/exercise%201/Exercise%201.png" height=150px>
 
-- introduction to graphing with lists
-- simulate a first-order kinetic system
-- pre-equilibrium and steady state
+- plotting kinetic data
+- fitting to a rate law
+- simulating kinetic scenarios
 
 __Download Exercise 1:__ &nbsp; [PDF](http://ekwan.github.io/practical_kinetics/exercise%201/Exercise%201.pdf) &nbsp; [PowerPoint](http://ekwan.github.io/practical_kinetics/exercise%201/Exercise%201.pptx) &nbsp; [IPython Notebook](http://ekwan.github.io/practical_kinetics/exercise%201/Exercise%201.ipynb)
 
@@ -38,9 +38,30 @@ __Download Practice 1:__ &nbsp; [PDF](http://ekwan.github.io/practical_kinetics/
 ### Exercise 2: Integral Rate Laws
 <img src="http://ekwan.github.io/practical_kinetics/exercise%202/exercise%202.png" height=150px>
 
-- import data from Excel and CSV
+- importing experimental data from Excel and CSV
 - fit absorbance data to zero-, first-, and second-order rate laws
 - residual and chi-square error analysis
 
 __Download Exercise 2:__ &nbsp; [PDF](http://ekwan.github.io/practical_kinetics/exercise%202/exercise%202.pdf) &nbsp; [PowerPoint](http://ekwan.github.io/practical_kinetics/exercise%202/exercise%202.pptx) &nbsp; [IPython Notebook](http://ekwan.github.io/practical_kinetics/exercise%202/exercise%202.ipynb)<br/>
 __Download Data Files:__ &nbsp; [dataset1.csv](http://ekwan.github.io/practical_kinetics/exercise%202/dataset1.csv) &nbsp; [dataset1.xlsx](http://ekwan.github.io/practical_kinetics/exercise%202/dataset1.xlsx) 
+
+### Exercise 3: Initial Rates vs. Reaction Progress
+<img src="http://ekwan.github.io/practical_kinetics/exercise%203/exercise%203.png" height=150px>
+
+- initial rates
+- whole reaction kinetic analysis
+- extracting rate constants
+
+__Download Exercise 3:__ &nbsp; [PDF](http://ekwan.github.io/practical_kinetics/exercise%203/exercise%203.pdf) &nbsp; [PowerPoint](http://ekwan.github.io/practical_kinetics/exercise%203/exercise%203.pptx) &nbsp; [IPython Notebook](http://ekwan.github.io/practical_kinetics/exercise%203/exercise%203.ipynb)<br/>
+__Download Data File:__ &nbsp; [dataset2.csv](http://ekwan.github.io/practical_kinetics/exercise%202/dataset2.csv) &nbsp;
+
+### Exercise 4: Reaction Progress Analysis of a Catalytic Reaction
+<img src="http://ekwan.github.io/practical_kinetics/exercise%204/exercise%204.png" height=150px>
+
+- same excess
+- different excess
+- extracting rate constants
+
+__Download Exercise 4:__ &nbsp; [PDF](http://ekwan.github.io/practical_kinetics/exercise%204/exercise%204.pdf) &nbsp; [PowerPoint](http://ekwan.github.io/practical_kinetics/exercise%204/exercise%204.pptx) &nbsp; [IPython Notebook](http://ekwan.github.io/practical_kinetics/exercise%204/exercise%204.ipynb)<br/>
+__Download Data File:__ &nbsp; [dataset3.csv](http://ekwan.github.io/practical_kinetics/exercise%202/dataset3.csv) &nbsp;
+
